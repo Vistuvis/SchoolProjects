@@ -1,5 +1,4 @@
-//Wyatt Hanes
-//Student Number: 300311372
+
 
 import java.util.Scanner;
 
